@@ -16,7 +16,7 @@ Contains:
 
 Title with \[Est. time\], Desctiption and label.
 
-Export with (CSV-GitHub-import-export)[https://github.com/controlgroup/CSV-GitHub-import-export]
+Export with [CSV-GitHub-import-export](https://github.com/controlgroup/CSV-GitHub-import-export)
 
 ![selection_693](https://cloud.githubusercontent.com/assets/7760669/13634347/a565e6de-e5fd-11e5-84cc-8c06a8f98f87.jpg)
 
