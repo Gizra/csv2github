@@ -40,7 +40,7 @@ foreach ($csv as $row) {
     'title'=>$row['Feature'] . ' [' . $row['Est. hours'] . 'h]',
     'description' => $row['Description & Assumptions'],
     'assignee_username' => '',
-    'label1' => $row['Issue Type'],
+    'label1' => trim($row['Issue Type'], '[]'),
   );
 
   $result = add_to_csv($file_name . '_prepared.csv', $to_csv );
